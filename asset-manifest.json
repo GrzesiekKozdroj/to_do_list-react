@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/react-redux-refreshement/static/js/main.d3ec2334.chunk.js",
-    "main.js.map": "/react-redux-refreshement/static/js/main.d3ec2334.chunk.js.map",
-    "runtime-main.js": "/react-redux-refreshement/static/js/runtime-main.f1529dc1.js",
-    "runtime-main.js.map": "/react-redux-refreshement/static/js/runtime-main.f1529dc1.js.map",
-    "static/js/2.8c9e4bbb.chunk.js": "/react-redux-refreshement/static/js/2.8c9e4bbb.chunk.js",
-    "static/js/2.8c9e4bbb.chunk.js.map": "/react-redux-refreshement/static/js/2.8c9e4bbb.chunk.js.map",
-    "index.html": "/react-redux-refreshement/index.html",
-    "precache-manifest.dcaf41eab65c97006b0328ce8ebcf499.js": "/react-redux-refreshement/precache-manifest.dcaf41eab65c97006b0328ce8ebcf499.js",
-    "service-worker.js": "/react-redux-refreshement/service-worker.js",
-    "static/js/2.8c9e4bbb.chunk.js.LICENSE.txt": "/react-redux-refreshement/static/js/2.8c9e4bbb.chunk.js.LICENSE.txt"
+    "main.js": "/to_do_list-react/static/js/main.bdc7d75f.chunk.js",
+    "main.js.map": "/to_do_list-react/static/js/main.bdc7d75f.chunk.js.map",
+    "runtime-main.js": "/to_do_list-react/static/js/runtime-main.0ebd4062.js",
+    "runtime-main.js.map": "/to_do_list-react/static/js/runtime-main.0ebd4062.js.map",
+    "static/js/2.8c9e4bbb.chunk.js": "/to_do_list-react/static/js/2.8c9e4bbb.chunk.js",
+    "static/js/2.8c9e4bbb.chunk.js.map": "/to_do_list-react/static/js/2.8c9e4bbb.chunk.js.map",
+    "index.html": "/to_do_list-react/index.html",
+    "precache-manifest.33adddcd5673a1e545e981259a888cef.js": "/to_do_list-react/precache-manifest.33adddcd5673a1e545e981259a888cef.js",
+    "service-worker.js": "/to_do_list-react/service-worker.js",
+    "static/js/2.8c9e4bbb.chunk.js.LICENSE.txt": "/to_do_list-react/static/js/2.8c9e4bbb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f1529dc1.js",
+    "static/js/runtime-main.0ebd4062.js",
     "static/js/2.8c9e4bbb.chunk.js",
-    "static/js/main.d3ec2334.chunk.js"
+    "static/js/main.bdc7d75f.chunk.js"
   ]
 }
